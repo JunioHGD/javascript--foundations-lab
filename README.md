@@ -35,16 +35,26 @@ O foco é compreender como a linguagem representa valores, resolve escopos, exec
 
 > Consulte o [currículo completo](./curriculum/curriculum.md).
 
+## Diretório visual de exercícios
+
+O **diretório visual** organiza os módulos e tópicos deste Lab em uma página navegável. Conforme os exercícios forem publicados, será possível acessá-los e visualizar as implementações diretamente no navegador.
+
+> **[Explorar os exercícios do JavaScript Lab →](https://juniohgd.github.io/javascript--foundations-lab/javascript-lab/)**
+
+Os arquivos de estudo, exercícios e checkpoints também podem ser consultados na pasta [`practice/`](./practice/).
+
 ## Estrutura do repositório
 
 ```text
-javascript-programming-foundations-lab/
+javascript--foundations-lab/
 ├── curriculum/
+├── javascript-lab/
 ├── practice/
 └── projects/
 ```
 
 - [`curriculum/`](./curriculum/) — mapa e currículo canônico do Lab.
+- [`javascript-lab/`](./javascript-lab/) — página do diretório visual de exercícios.
 - [`practice/`](./practice/) — blocos, unidades, exercícios e checkpoints.
 - [`projects/`](./projects/) — projetos de integração de maior escopo.
 
