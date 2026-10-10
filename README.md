@@ -10,6 +10,16 @@ O foco é compreender como a linguagem representa valores, resolve escopos, exec
 
 > **Fundamentos → prática → execução → debugging**
 
+**Acesso rápido:** [Exercícios](#diretório-visual-de-exercícios) · [Competências](#competências) · [Percurso](#percurso) · [Estrutura do repositório](#estrutura-do-repositório)
+
+## Diretório visual de exercícios
+
+O **diretório visual** organiza os módulos e tópicos deste Lab em uma página navegável. Conforme os exercícios forem publicados, será possível acessá-los e visualizar as implementações diretamente no navegador.
+
+> **[Explorar os exercícios do JavaScript Lab →](https://juniohgd.github.io/javascript--foundations-lab/javascript-lab/)**
+
+Os arquivos de estudo, exercícios e checkpoints também podem ser consultados na pasta [`practice/`](./practice/).
+
 ## Competências
 
 - **prever e diagnosticar o comportamento do JavaScript**, raciocinando sobre tipos, coerção, escopo, closures, referências e execução assíncrona;
@@ -35,13 +45,9 @@ O foco é compreender como a linguagem representa valores, resolve escopos, exec
 
 > Consulte o [currículo completo](./curriculum/curriculum.md).
 
-## Diretório visual de exercícios
+### Navegação
 
-O **diretório visual** organiza os módulos e tópicos deste Lab em uma página navegável. Conforme os exercícios forem publicados, será possível acessá-los e visualizar as implementações diretamente no navegador.
-
-> **[Explorar os exercícios do JavaScript Lab →](https://juniohgd.github.io/javascript--foundations-lab/javascript-lab/)**
-
-Os arquivos de estudo, exercícios e checkpoints também podem ser consultados na pasta [`practice/`](./practice/).
+[JS-01 — Valores, Tipos e Avaliação de Expressões →](./practice/js-01-valores-tipos-e-avaliacao-de-expressoes/)
 
 ## Estrutura do repositório
 
@@ -58,8 +64,3 @@ javascript--foundations-lab/
 - [`practice/`](./practice/) — blocos, unidades, exercícios e checkpoints.
 - [`projects/`](./projects/) — projetos de integração de maior escopo.
 
----
-
-### Navegação
-
-[JS-01 — Valores, Tipos e Avaliação de Expressões →](./practice/js-01-valores-tipos-e-avaliacao-de-expressoes/)
