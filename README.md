@@ -41,13 +41,11 @@ O foco é compreender como a linguagem representa valores, resolve escopos, exec
 javascript-programming-foundations-lab/
 ├── curriculum/
 ├── practice/
-├── web-integration/
 └── projects/
 ```
 
 - [`curriculum/`](./curriculum/) — mapa e currículo canônico do Lab.
 - [`practice/`](./practice/) — blocos, unidades, exercícios e checkpoints.
-- [`web-integration/`](./web-integration/) — aplicação dos fundamentos em contextos Web funcionais.
 - [`projects/`](./projects/) — projetos de integração de maior escopo.
 
 ---
