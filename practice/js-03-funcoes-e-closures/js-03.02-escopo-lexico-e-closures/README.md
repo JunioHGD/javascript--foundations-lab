@@ -23,11 +23,6 @@ Os exercícios desta unidade aplicam os fundamentos estudados por meio de implem
 
 [Ver exercícios →](./exercises/)
 
-## Web Integration
-
-Implementar um contador clicável que mantém o número de cliques em um closure (por exemplo, `let count=0; return () => {count++; ...}`), demonstrando persistência de estado privado.
-
-[Ver Web Integration →](../../../web-integration/)
 
 ---
 
