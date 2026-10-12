@@ -23,11 +23,6 @@ Os exercícios desta unidade aplicam os fundamentos estudados por meio de implem
 
 [Ver exercícios →](./exercises/)
 
-## Web Integration
-
-Criar um módulo `utils.js` que exporta funções de formatação de data e importar em `main.js` para formatar uma data na página.
-
-[Ver Web Integration →](../../../web-integration/)
 
 ---
 
