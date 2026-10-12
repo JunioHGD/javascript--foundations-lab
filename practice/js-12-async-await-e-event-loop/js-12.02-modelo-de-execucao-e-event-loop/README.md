@@ -23,11 +23,6 @@ Os exercícios desta unidade aplicam os fundamentos estudados por meio de implem
 
 [Ver exercícios →](./exercises/)
 
-## Web Integration
-
-Demonstrar em código front-end que atualizações via `setTimeout` e `Promise.then` ocorrem em ordem previsível: por exemplo, registrar no console a sequência de `console.log` no corpo principal, em um `.then()`, e em um `setTimeout`, verificando que `.then()` (microtask) executa antes do próximo tick de `setTimeout` (task).
-
-[Ver Web Integration →](../../../web-integration/)
 
 ---
 
