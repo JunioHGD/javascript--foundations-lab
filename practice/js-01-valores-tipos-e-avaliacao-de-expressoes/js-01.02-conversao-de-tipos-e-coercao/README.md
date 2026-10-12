@@ -24,11 +24,6 @@ Os exercícios desta unidade aplicam os fundamentos estudados por meio de implem
 
 [Ver exercícios →](./exercises/)
 
-## Web Integration
-
-Implementar validação simples: por exemplo, ler um input numérico como texto e converter para número com `Number()`; verificar se a conversão falhou (`NaN`) antes de usar o valor.
-
-[Ver Web Integration →](../../../web-integration/)
 
 ---
 
