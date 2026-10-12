@@ -22,11 +22,6 @@ Os exercícios desta unidade aplicam os fundamentos estudados por meio de implem
 
 [Ver exercícios →](./exercises/)
 
-## Web Integration
-
-Exemplificar em código de componente front-end (por exemplo, callback de evento ou método de objeto) usando função arrow para que `this` continue sendo o objeto desejado, evitando `undefined`.
-
-[Ver Web Integration →](../../../web-integration/)
 
 ---
 
