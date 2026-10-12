@@ -23,11 +23,6 @@ Os exercícios desta unidade aplicam os fundamentos estudados por meio de implem
 
 [Ver exercícios →](./exercises/)
 
-## Web Integration
-
-Modelar entidades de uma aplicação web com classes: por exemplo, criar classes `Card`, `Deck` ou `Usuario` para gerenciar dados do front-end e instanciar objetos.
-
-[Ver Web Integration →](../../../web-integration/)
 
 ---
 
