@@ -22,11 +22,6 @@ Os exercícios desta unidade aplicam os fundamentos estudados por meio de implem
 
 [Ver exercícios →](./exercises/)
 
-## Web Integration
-
-Configurar `setTimeout` ou `setInterval` para atualizar elementos DOM após atrasos, provando que o resto do script continua executando sem bloqueio.
-
-[Ver Web Integration →](../../../web-integration/)
 
 ---
 
