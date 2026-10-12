@@ -23,11 +23,6 @@ Os exercícios desta unidade aplicam os fundamentos estudados por meio de implem
 
 [Ver exercícios →](./exercises/)
 
-## Web Integration
-
-Construir página HTML que importa módulos JS: por exemplo, `index.html` carrega `app.js` que por sua vez importa funções de `domUtils.js` e `data.js` para montar conteúdo da página.
-
-[Ver Web Integration →](../../../web-integration/)
 
 ---
 
