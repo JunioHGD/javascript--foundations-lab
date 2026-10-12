@@ -23,11 +23,6 @@ Os exercícios desta unidade aplicam os fundamentos estudados por meio de implem
 
 [Ver exercícios →](./exercises/)
 
-## Web Integration
-
-Fazer `try { JSON.parse(input) } catch(e) { alert("JSON inválido") }` ao receber entrada do usuário, demonstrando tratamento de erros de parsing.
-
-[Ver Web Integration →](../../../web-integration/)
 
 ---
 
