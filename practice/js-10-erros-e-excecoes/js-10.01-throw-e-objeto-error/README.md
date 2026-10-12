@@ -22,11 +22,6 @@ Os exercícios desta unidade aplicam os fundamentos estudados por meio de implem
 
 [Ver exercícios →](./exercises/)
 
-## Web Integration
-
-No contexto de formulário, validar dados e lançar um erro com `throw` quando o usuário envia informação inválida (por exemplo, formato de email), então capturar esse erro para exibir uma mensagem ao usuário.
-
-[Ver Web Integration →](../../../web-integration/)
 
 ---
 
