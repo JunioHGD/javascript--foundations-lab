@@ -23,11 +23,6 @@ Os exercícios desta unidade aplicam os fundamentos estudados por meio de implem
 
 [Ver exercícios →](./exercises/)
 
-## Web Integration
-
-Criar um botão `<button>` cujo manipulador chama um método de um objeto; mostrar que, sem bind, o `this` dentro do método é o elemento do DOM, e com arrow/bind pode ser o objeto desejado.
-
-[Ver Web Integration →](../../../web-integration/)
 
 ---
 
