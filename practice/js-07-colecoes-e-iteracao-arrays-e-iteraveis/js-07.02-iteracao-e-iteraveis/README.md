@@ -23,11 +23,6 @@ Os exercícios desta unidade aplicam os fundamentos estudados por meio de implem
 
 [Ver exercícios →](./exercises/)
 
-## Web Integration
-
-Por exemplo, iterar sobre um `HTMLCollection` ou `NodeList` (que são iteráveis) usando `for...of`, para atribuir event listeners a múltiplos elementos de forma simples.
-
-[Ver Web Integration →](../../../web-integration/)
 
 ---
 
