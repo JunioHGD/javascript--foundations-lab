@@ -23,11 +23,6 @@ Os exercícios desta unidade aplicam os fundamentos estudados por meio de implem
 
 [Ver exercícios →](./exercises/)
 
-## Web Integration
-
-Implementar um contador simples usando `let` dentro de um evento de clique; demonstrar que a variável não existe fora da função (evitando poluir escopo global).
-
-[Ver Web Integration →](../../../web-integration/)
 
 ---
 
