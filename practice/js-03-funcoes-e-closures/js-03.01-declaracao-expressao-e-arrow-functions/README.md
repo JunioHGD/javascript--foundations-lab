@@ -23,11 +23,6 @@ Os exercícios desta unidade aplicam os fundamentos estudados por meio de implem
 
 [Ver exercícios →](./exercises/)
 
-## Web Integration
-
-Criar um manipulador de evento de clique passado como função de callback; observar como `this` (evento) é tratado dentro do handler quando escrito como função normal vs arrow.
-
-[Ver Web Integration →](../../../web-integration/)
 
 ---
 
