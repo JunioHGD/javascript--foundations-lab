@@ -23,11 +23,6 @@ Os exercícios desta unidade aplicam os fundamentos estudados por meio de implem
 
 [Ver exercícios →](./exercises/)
 
-## Web Integration
-
-Criar strings de marcação HTML com template literals inserindo variáveis; acessar dados aninhados de objetos de resposta (por exemplo, `resp.data?.user?.name`) sem erro caso algo não exista.
-
-[Ver Web Integration →](../../../web-integration/)
 
 ---
 
