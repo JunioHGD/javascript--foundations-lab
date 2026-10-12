@@ -23,11 +23,6 @@ Os exercícios desta unidade aplicam os fundamentos estudados por meio de implem
 
 [Ver exercícios →](./exercises/)
 
-## Web Integration
-
-Consumir uma lista de dados (p.ex. itens de um JSON) usando `fetch` em uma função assíncrona e preencher elementos `<li>` via `map`; ou usar `filter` para destacar itens que cumprem certo critério na página.
-
-[Ver Web Integration →](../../../web-integration/)
 
 ---
 
