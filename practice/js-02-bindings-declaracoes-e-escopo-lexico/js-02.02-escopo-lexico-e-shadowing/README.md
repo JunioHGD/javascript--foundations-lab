@@ -23,11 +23,6 @@ Os exercícios desta unidade aplicam os fundamentos estudados por meio de implem
 
 [Ver exercícios →](./exercises/)
 
-## Web Integration
-
-Exibir dinamicamente múltiplas mensagens distintas usando variáveis de mesmo nome em diferentes funções de eventos (por exemplo, nome do usuário em formulário vs em função de limpeza).
-
-[Ver Web Integration →](../../../web-integration/)
 
 ---
 
