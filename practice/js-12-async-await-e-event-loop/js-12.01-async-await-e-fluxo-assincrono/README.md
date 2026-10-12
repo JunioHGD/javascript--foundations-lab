@@ -24,11 +24,6 @@ Os exercícios desta unidade aplicam os fundamentos estudados por meio de implem
 
 [Ver exercícios →](./exercises/)
 
-## Web Integration
-
-Criar uma função assíncrona que faz múltiplas requisições `fetch` em sequência usando `await`, por exemplo, obter perfil de usuário e depois suas postagens, atualizando a página passo a passo.
-
-[Ver Web Integration →](../../../web-integration/)
 
 ---
 
