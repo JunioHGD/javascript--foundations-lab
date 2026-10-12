@@ -25,11 +25,6 @@ Os exercícios desta unidade aplicam os fundamentos estudados por meio de implem
 
 [Ver exercícios →](./exercises/)
 
-## Web Integration
-
-Fazer uma requisição com a API `fetch` (retorna Promise) para trazer dados de uma API pública e então encadear `.then()` para processar JSON e atualizar a página. Demonstrar `catch` para erro de rede.
-
-[Ver Web Integration →](../../../web-integration/)
 
 ---
 
