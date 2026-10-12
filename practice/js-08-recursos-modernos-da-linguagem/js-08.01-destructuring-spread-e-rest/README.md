@@ -23,11 +23,6 @@ Os exercícios desta unidade aplicam os fundamentos estudados por meio de implem
 
 [Ver exercícios →](./exercises/)
 
-## Web Integration
-
-Usar destructuring para extrair dados retornados de uma `fetch` (por exemplo, `const {id, title} = post`) e preenchê-los no DOM.
-
-[Ver Web Integration →](../../../web-integration/)
 
 ---
 
