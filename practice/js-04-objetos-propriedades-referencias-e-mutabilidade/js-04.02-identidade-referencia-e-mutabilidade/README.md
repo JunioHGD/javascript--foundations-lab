@@ -25,11 +25,6 @@ Os exercícios desta unidade aplicam os fundamentos estudados por meio de implem
 
 [Ver exercícios →](./exercises/)
 
-## Web Integration
-
-Manusear uma lista de itens em um objeto (ou array) compartilhado entre funções de callback (e.g. adicionar/remover itens num carrinho de compras), observando efeitos de referência.
-
-[Ver Web Integration →](../../../web-integration/)
 
 ---
 
