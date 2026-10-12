@@ -23,11 +23,6 @@ Os exercícios desta unidade aplicam os fundamentos estudados por meio de implem
 
 [Ver exercícios →](./exercises/)
 
-## Web Integration
-
-Representar no JS um registro de formatação (por exemplo, um objeto `user` com nome e email) e atualizar seus campos conforme entradas do usuário, refletindo alterações no UI ou no console.
-
-[Ver Web Integration →](../../../web-integration/)
 
 ---
 
