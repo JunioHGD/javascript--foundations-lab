@@ -23,11 +23,6 @@ Os exercícios desta unidade aplicam os fundamentos estudados por meio de implem
 
 [Ver exercícios →](./exercises/)
 
-## Web Integration
-
-Criar uma cadeia prototípica customizada: por exemplo, definir `Animal` como função construtora e adicionar método a `Animal.prototype`, instanciar e usar método herdado em instâncias (animais diferentes).
-
-[Ver Web Integration →](../../../web-integration/)
 
 ---
 
