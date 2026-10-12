@@ -22,11 +22,6 @@ Os exercícios desta unidade aplicam os fundamentos estudados por meio de implem
 
 [Ver exercícios →](./exercises/)
 
-## Web Integration
-
-Exibir o tipo ou valor recebido de um campo de formulário no console usando `typeof`, mostrando ao usuário se o valor inserido é número, texto, etc.
-
-[Ver Web Integration →](../../../web-integration/)
 
 ---
 
