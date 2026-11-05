@@ -1,0 +1,497 @@
+%PDF-1.4
+% JavaScript Foundations Lab
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Count 10 /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R 15 0 R 17 0 R 19 0 R 21 0 R 23 0 R] >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 6 0 R >>
+endobj
+6 0 obj
+<< /Length 5494 >>
+stream
+0.080 0.400 0.310 rg 0 831.89 595.28 10 re f
+0.310 0.400 0.430 rg BT /F2 9 Tf 1 0 0 1 54 808 Tm (JAVASCRIPT FOUNDATIONS LAB  /  CURRICULO) Tj ET
+0.810 0.860 0.840 RG 0.6 w 54 798 m 541.28 798 l S
+0.100 0.160 0.200 rg BT /F2 20 Tf 1 0 0 1 54.00 766.00 Tm (JavaScript Foundations Lab \227 Curr\355culo) Tj ET
+0.080 0.400 0.310 rg BT /F2 14.4 Tf 1 0 0 1 54.00 716.00 Tm (Objetivo) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.3 Tf 1 0 0 1 54.00 690.00 Tm (Consolidar os fundamentos de JavaScript para resolver problemas, construir interfaces web e avan\347ar com) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.3 Tf 1 0 0 1 54.00 675.40 Tm (seguran\347a para Node.js, APIs e desenvolvimento backend.) Tj ET
+0.080 0.400 0.310 rg BT /F2 14.4 Tf 1 0 0 1 54.00 643.80 Tm (Como estudar) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.2 Tf 1 0 0 1 63.00 617.80 Tm (1. Estudar os t\363picos de cada m\363dulo em sequ\352ncia e experimentar conceitos pontualmente quando) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.2 Tf 1 0 0 1 63.00 603.10 Tm (necess\341rio.) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.2 Tf 1 0 0 1 63.00 586.40 Tm (2. Resolver um exerc\355cio integrador por m\363dulo, aplicando os t\363picos relacionados.) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.2 Tf 1 0 0 1 63.00 569.70 Tm (3. Verificar as compet\352ncias, executar testes ou cen\341rios de valida\347\343o e corrigir falhas antes de avan\347ar.) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.3 Tf 1 0 0 1 54.00 548.00 Tm (Crit\351rio geral: saber explicar e aplicar os conceitos com autonomia, sem exigir dom\355nio de detalhes) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.3 Tf 1 0 0 1 54.00 533.10 Tm (avan\347ados que n\343o influenciam o trabalho atual.) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.3 Tf 1 0 0 1 54.00 510.20 Tm (Ambientes: at\351 JS-07, os exerc\355cios podem ser executados no console do navegador ou no Node.js,) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.3 Tf 1 0 0 1 54.00 495.30 Tm (conforme indicado; JS-08 e JS-09 requerem navegador para DOM e Web APIs. JavaScript \351 a linguagem;) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.3 Tf 1 0 0 1 54.00 480.40 Tm (document, fetch e APIs de arquivos pertencem aos respectivos ambientes.) Tj ET
+0.080 0.400 0.310 rg BT /F2 14.4 Tf 1 0 0 1 54.00 447.50 Tm (Mapa curricular) Tj ET
+0.100 0.160 0.200 rg BT /F1 8.8 Tf 1 0 0 1 62.00 419.50 Tm (JS-01 \227 Valores, Operadores e Controle de Fluxo - Escrever programas simples, prever o resultado de) Tj ET
+0.100 0.160 0.200 rg BT /F1 8.8 Tf 1 0 0 1 62.00 405.70 Tm (express\365es e controlar decis\365es e repeti\347\365es. [3 t\363picos]) Tj ET
+0.100 0.160 0.200 rg BT /F1 8.8 Tf 1 0 0 1 62.00 389.90 Tm (JS-02 \227 Fun\347\365es, Escopo e Closures - Decompor problemas em fun\347\365es reutiliz\341veis e compreender a resolu\347\343o) Tj ET
+0.100 0.160 0.200 rg BT /F1 8.8 Tf 1 0 0 1 62.00 376.10 Tm (de nomes e o estado de fun\347\365es. [2 t\363picos]) Tj ET
+0.100 0.160 0.200 rg BT /F1 8.8 Tf 1 0 0 1 62.00 360.30 Tm (JS-03 \227 Cole\347\365es e Processamento de Dados - Representar, percorrer e transformar conjuntos de) Tj ET
+0.100 0.160 0.200 rg BT /F1 8.8 Tf 1 0 0 1 62.00 346.50 Tm (informa\347\365es com clareza e aten\347\343o \340 mutabilidade. [2 t\363picos]) Tj ET
+0.100 0.160 0.200 rg BT /F1 8.8 Tf 1 0 0 1 62.00 330.70 Tm (JS-04 \227 Objetos, M\351todos e Classes - Modelar entidades e compreender identidade, refer\352ncias, m\351todos e a) Tj ET
+0.100 0.160 0.200 rg BT /F1 8.8 Tf 1 0 0 1 62.00 316.90 Tm (base da orienta\347\343o a objetos em JavaScript. [3 t\363picos]) Tj ET
+0.100 0.160 0.200 rg BT /F1 8.8 Tf 1 0 0 1 62.00 301.10 Tm (JS-05 \227 Sintaxe Pr\341tica e M\363dulos - Utilizar recursos modernos da linguagem e dividir c\363digo em m\363dulos com) Tj ET
+0.100 0.160 0.200 rg BT /F1 8.8 Tf 1 0 0 1 62.00 287.30 Tm (responsabilidades definidas. [2 t\363picos]) Tj ET
+0.100 0.160 0.200 rg BT /F1 8.8 Tf 1 0 0 1 62.00 271.50 Tm (JS-06 \227 Erros, Depura\347\343o e Testes - Tratar falhas de forma previs\355vel e verificar o comportamento do c\363digo) Tj ET
+0.100 0.160 0.200 rg BT /F1 8.8 Tf 1 0 0 1 62.00 257.70 Tm (com casos reproduz\355veis. [2 t\363picos]) Tj ET
+0.100 0.160 0.200 rg BT /F1 8.8 Tf 1 0 0 1 62.00 241.90 Tm (JS-07 \227 Assincronismo e Modelo de Execu\347\343o - Coordenar tarefas ass\355ncronas, tratar falhas e compreender a) Tj ET
+0.100 0.160 0.200 rg BT /F1 8.8 Tf 1 0 0 1 62.00 228.10 Tm (ordem de execu\347\343o em alto n\355vel. [3 t\363picos]) Tj ET
+0.100 0.160 0.200 rg BT /F1 8.8 Tf 1 0 0 1 62.00 212.30 Tm (JS-08 \227 DOM e Eventos - Conectar a l\363gica JavaScript \340 interface HTML respeitando estrutura, eventos e) Tj ET
+0.100 0.160 0.200 rg BT /F1 8.8 Tf 1 0 0 1 62.00 198.50 Tm (acessibilidade. [2 t\363picos]) Tj ET
+0.100 0.160 0.200 rg BT /F1 8.8 Tf 1 0 0 1 62.00 182.70 Tm (JS-09 \227 HTTP, JSON e Integra\347\343o Web - Consumir servi\347os web e transformar respostas em dados e) Tj ET
+0.100 0.160 0.200 rg BT /F1 8.8 Tf 1 0 0 1 62.00 168.90 Tm (interfaces, formando a ponte para APIs e backend. [2 t\363picos]) Tj ET
+0.080 0.400 0.310 rg BT /F2 14.4 Tf 1 0 0 1 54.00 128.10 Tm (JS-01 \227 Valores, Operadores e Controle de Fluxo) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.3 Tf 1 0 0 1 54.00 97.10 Tm (Objetivo: Escrever programas simples, prever o resultado de express\365es e controlar decis\365es e repeti\347\365es.) Tj ET
+0.810 0.860 0.840 RG .5 w 54 54 m 541.28 54 l S
+0.310 0.400 0.430 rg BT /F1 8 Tf 1 0 0 1 54 39 Tm (Fundamentos de JavaScript - Estudo e Pratica) Tj ET
+0.310 0.400 0.430 rg BT /F2 8 Tf 1 0 0 1 527.28 39 Tm (1) Tj ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 8 0 R >>
+endobj
+8 0 obj
+<< /Length 5017 >>
+stream
+0.080 0.400 0.310 rg 0 831.89 595.28 10 re f
+0.310 0.400 0.430 rg BT /F2 9 Tf 1 0 0 1 54 808 Tm (JAVASCRIPT FOUNDATIONS LAB  /  CURRICULO) Tj ET
+0.810 0.860 0.840 RG 0.6 w 54 798 m 541.28 798 l S
+0.100 0.160 0.200 rg BT /F1 9.3 Tf 1 0 0 1 54.00 773.00 Tm (Pr\351-requisito: HTML b\341sico e no\347\365es de programa\347\343o.) Tj ET
+0.100 0.160 0.200 rg BT /F2 11.1 Tf 1 0 0 1 54.00 743.10 Tm (JS-01.01 \227 Sintaxe, valores e declara\347\365es) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.1 Tf 1 0 0 1 63.00 719.10 Tm (\225 Execu\347\343o de JavaScript em navegador e Node.js; console, arquivos .js, coment\341rios, blocos e distin\347\343o) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.1 Tf 1 0 0 1 63.00 704.60 Tm (entre linguagem e APIs do ambiente.) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.1 Tf 1 0 0 1 63.00 688.10 Tm (\225 Tipos primitivos \(string, number, boolean, undefined, null, bigint, symbol\) e objetos; literais e typeof,) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.1 Tf 1 0 0 1 63.00 673.60 Tm (incluindo a particularidade de typeof null.) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.1 Tf 1 0 0 1 63.00 657.10 Tm (\225 Bindings const, let e conhecimento de var; reatribui\347\343o, valores primitivos e const n\343o significar) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.1 Tf 1 0 0 1 63.00 642.60 Tm (imutabilidade de objetos.) Tj ET
+0.100 0.160 0.200 rg BT /F2 11.1 Tf 1 0 0 1 54.00 614.10 Tm (JS-01.02 \227 Express\365es, operadores e decis\365es) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.1 Tf 1 0 0 1 63.00 590.10 Tm (\225 Operadores aritm\351ticos, de atribui\347\343o, compara\347\343o \(===, !==\) e l\363gicos \(&&, ||, !\); preced\352ncia e) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.1 Tf 1 0 0 1 63.00 575.60 Tm (curto-circuito.) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.1 Tf 1 0 0 1 63.00 559.10 Tm (\225 Convers\343o expl\355cita, coer\347\343o, truthy/falsy, diferen\347a entre == e ===; template literals.) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.1 Tf 1 0 0 1 63.00 542.60 Tm (\225 Decis\365es com if, else, switch e operador condicional ?:; condi\347\365es leg\355veis e valida\347\343o de entradas simples.) Tj ET
+0.100 0.160 0.200 rg BT /F2 11.1 Tf 1 0 0 1 54.00 514.10 Tm (JS-01.03 \227 La\347os e controle de execu\347\343o) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.1 Tf 1 0 0 1 63.00 490.10 Tm (\225 for, while e do...while; atualiza\347\343o de contadores, condi\347\365es de parada e preven\347\343o de loops infinitos.) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.1 Tf 1 0 0 1 63.00 473.60 Tm (\225 break, continue, blocos e combina\347\343o de decis\365es com repeti\347\343o.) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.1 Tf 1 0 0 1 63.00 457.10 Tm (\225 Escolha de um la\347o apropriado para repetir c\341lculos ou inspecionar uma sequ\352ncia de valores.) Tj ET
+0.100 0.160 0.200 rg BT /F2 11.1 Tf 1 0 0 1 54.00 428.60 Tm (Compet\352ncias) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.1 Tf 1 0 0 1 63.00 404.60 Tm (\225 Explicar valores, tipos, coer\347\343o e o resultado de express\365es comuns.) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.1 Tf 1 0 0 1 63.00 388.10 Tm (\225 Criar decis\365es e la\347os corretamente, sem depender de copiar solu\347\365es prontas.) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.1 Tf 1 0 0 1 63.00 371.60 Tm (\225 Organizar uma rotina pequena e diagnosticar erros de sintaxe e de l\363gica.) Tj ET
+0.100 0.160 0.200 rg BT /F2 11.1 Tf 1 0 0 1 54.00 343.10 Tm (Exerc\355cio integrador) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.3 Tf 1 0 0 1 54.00 316.10 Tm (Simulador de tarifas. Calcular pre\347os finais para diferentes quantidades e condi\347\365es de desconto, gerando) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.3 Tf 1 0 0 1 54.00 301.20 Tm (um relat\363rio no console por meio de decis\365es e la\347os.) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.3 Tf 1 0 0 1 54.00 278.30 Tm (Crit\351rios de conclus\343o:) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.1 Tf 1 0 0 1 63.00 258.40 Tm (\225 Executar com cen\341rios variados e explicar os c\341lculos.) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.1 Tf 1 0 0 1 63.00 241.90 Tm (\225 Usar condi\347\365es de parada corretas e evitar compara\347\365es com coer\347\343o desnecess\341ria.) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.1 Tf 1 0 0 1 63.00 225.40 Tm (\225 N\343o exigir HTML, DOM ou bibliotecas externas.) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.3 Tf 1 0 0 1 54.00 203.90 Tm (Ambiente: Console do navegador ou Node.js; sem interface obrigat\363ria.) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.3 Tf 1 0 0 1 54.00 184.00 Tm (Consultar m\363dulo) Tj ET
+0.080 0.400 0.310 rg BT /F2 14.4 Tf 1 0 0 1 54.00 142.40 Tm (JS-02 \227 Fun\347\365es, Escopo e Closures) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.3 Tf 1 0 0 1 54.00 111.40 Tm (Objetivo: Decompor problemas em fun\347\365es reutiliz\341veis e compreender a resolu\347\343o de nomes e o estado de) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.3 Tf 1 0 0 1 54.00 96.50 Tm (fun\347\365es.) Tj ET
+0.810 0.860 0.840 RG .5 w 54 54 m 541.28 54 l S
+0.310 0.400 0.430 rg BT /F1 8 Tf 1 0 0 1 54 39 Tm (Fundamentos de JavaScript - Estudo e Pratica) Tj ET
+0.310 0.400 0.430 rg BT /F2 8 Tf 1 0 0 1 527.28 39 Tm (2) Tj ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 10 0 R >>
+endobj
+10 0 obj
+<< /Length 4742 >>
+stream
+0.080 0.400 0.310 rg 0 831.89 595.28 10 re f
+0.310 0.400 0.430 rg BT /F2 9 Tf 1 0 0 1 54 808 Tm (JAVASCRIPT FOUNDATIONS LAB  /  CURRICULO) Tj ET
+0.810 0.860 0.840 RG 0.6 w 54 798 m 541.28 798 l S
+0.100 0.160 0.200 rg BT /F1 9.3 Tf 1 0 0 1 54.00 773.00 Tm (Pr\351-requisito: JS-01 e seus fundamentos essenciais.) Tj ET
+0.100 0.160 0.200 rg BT /F2 11.1 Tf 1 0 0 1 54.00 743.10 Tm (JS-02.01 \227 Fun\347\365es e composi\347\343o) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.1 Tf 1 0 0 1 63.00 719.10 Tm (\225 Declara\347\343o, express\343o e arrow function; par\342metros, argumentos, retornos, par\342metros padr\343o e) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.1 Tf 1 0 0 1 63.00 704.60 Tm (diferen\347as entre return e efeitos colaterais.) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.1 Tf 1 0 0 1 63.00 688.10 Tm (\225 Divis\343o em fun\347\365es pequenas com responsabilidades claras; valida\347\343o de par\342metros e composi\347\343o de) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.1 Tf 1 0 0 1 63.00 673.60 Tm (resultados.) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.1 Tf 1 0 0 1 63.00 657.10 Tm (\225 Fun\347\365es como valores: armazenar, passar como argumento e receber como retorno.) Tj ET
+0.100 0.160 0.200 rg BT /F2 11.1 Tf 1 0 0 1 54.00 628.60 Tm (JS-02.02 \227 Escopo l\351xico e closures) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.1 Tf 1 0 0 1 63.00 604.60 Tm (\225 Escopo de bloco, de fun\347\343o e de m\363dulo; shadowing e acesso a vari\341veis externas.) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.1 Tf 1 0 0 1 63.00 588.10 Tm (\225 Hoisting e temporal dead zone* para entender usos antes da declara\347\343o; diferen\347as pr\341ticas entre var, let) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.1 Tf 1 0 0 1 63.00 573.60 Tm (e const.) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.1 Tf 1 0 0 1 63.00 557.10 Tm (\225 Closure como fun\347\343o que mant\351m acesso ao ambiente l\351xico; encapsulamento simples sem exigir padr\365es) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.1 Tf 1 0 0 1 63.00 542.60 Tm (avan\347ados.) Tj ET
+0.100 0.160 0.200 rg BT /F2 11.1 Tf 1 0 0 1 54.00 514.10 Tm (Compet\352ncias) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.1 Tf 1 0 0 1 63.00 490.10 Tm (\225 Implementar fun\347\365es independentes que recebem dados e devolvem resultados.) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.1 Tf 1 0 0 1 63.00 473.60 Tm (\225 Prever visibilidade de vari\341veis em blocos, fun\347\365es e closures.) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.1 Tf 1 0 0 1 63.00 457.10 Tm (\225 Separar regras de neg\363cio de entrada e sa\355da de dados.) Tj ET
+0.100 0.160 0.200 rg BT /F2 11.1 Tf 1 0 0 1 54.00 428.60 Tm (Exerc\355cio integrador) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.3 Tf 1 0 0 1 54.00 401.60 Tm (Calculadora de regras de neg\363cio. Implementar c\341lculos e valida\347\365es por fun\347\365es; criar uma fun\347\343o) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.3 Tf 1 0 0 1 54.00 386.70 Tm (configuradora que retorna outra fun\347\343o para praticar closure.) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.3 Tf 1 0 0 1 54.00 363.80 Tm (Crit\351rios de conclus\343o:) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.1 Tf 1 0 0 1 63.00 343.90 Tm (\225 As regras possuem par\342metros e retornos claros.) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.1 Tf 1 0 0 1 63.00 327.40 Tm (\225 Existe ao menos um caso justific\341vel de closure, sem estado global desnecess\341rio.) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.1 Tf 1 0 0 1 63.00 310.90 Tm (\225 As fun\347\365es s\343o executadas com casos v\341lidos e inv\341lidos.) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.3 Tf 1 0 0 1 54.00 289.40 Tm (Ambiente: Console do navegador ou Node.js.) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.3 Tf 1 0 0 1 54.00 269.50 Tm (Consultar m\363dulo) Tj ET
+0.080 0.400 0.310 rg BT /F2 14.4 Tf 1 0 0 1 54.00 227.90 Tm (JS-03 \227 Cole\347\365es e Processamento de Dados) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.3 Tf 1 0 0 1 54.00 196.90 Tm (Objetivo: Representar, percorrer e transformar conjuntos de informa\347\365es com clareza e aten\347\343o \340) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.3 Tf 1 0 0 1 54.00 182.00 Tm (mutabilidade.) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.3 Tf 1 0 0 1 54.00 159.10 Tm (Pr\351-requisito: JS-02 e seus fundamentos essenciais.) Tj ET
+0.100 0.160 0.200 rg BT /F2 11.1 Tf 1 0 0 1 54.00 129.20 Tm (JS-03.01 \227 Arrays, strings e itera\347\343o) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.1 Tf 1 0 0 1 63.00 105.20 Tm (\225 Arrays: cria\347\343o, \355ndices, acesso, tamanho, inser\347\343o e remo\347\343o; m\351todos essenciais de string \(trim,) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.1 Tf 1 0 0 1 63.00 90.70 Tm (includes, slice, split\).) Tj ET
+0.810 0.860 0.840 RG .5 w 54 54 m 541.28 54 l S
+0.310 0.400 0.430 rg BT /F1 8 Tf 1 0 0 1 54 39 Tm (Fundamentos de JavaScript - Estudo e Pratica) Tj ET
+0.310 0.400 0.430 rg BT /F2 8 Tf 1 0 0 1 527.28 39 Tm (3) Tj ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 12 0 R >>
+endobj
+12 0 obj
+<< /Length 4957 >>
+stream
+0.080 0.400 0.310 rg 0 831.89 595.28 10 re f
+0.310 0.400 0.430 rg BT /F2 9 Tf 1 0 0 1 54 808 Tm (JAVASCRIPT FOUNDATIONS LAB  /  CURRICULO) Tj ET
+0.810 0.860 0.840 RG 0.6 w 54 798 m 541.28 798 l S
+0.100 0.160 0.200 rg BT /F1 9.1 Tf 1 0 0 1 63.00 776.00 Tm (\225 Itera\347\343o com for...of, forEach e la\347os convencionais; diferen\347as entre valores e \355ndices.) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.1 Tf 1 0 0 1 63.00 759.50 Tm (\225 Opera\347\365es que mutam a cole\347\343o e opera\347\365es que produzem novos valores; evitar altera\347\365es inesperadas.) Tj ET
+0.100 0.160 0.200 rg BT /F2 11.1 Tf 1 0 0 1 54.00 731.00 Tm (JS-03.02 \227 Transforma\347\343o e agrega\347\343o) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.1 Tf 1 0 0 1 63.00 707.00 Tm (\225 map, filter, find, some, every e reduce: escolher pelo resultado desejado, n\343o por prefer\352ncia est\351tica.) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.1 Tf 1 0 0 1 63.00 690.50 Tm (\225 Ordena\347\343o com sort e fun\347\343o comparadora, c\363pia com slice ou spread; cuidado com refer\352ncias) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.1 Tf 1 0 0 1 63.00 676.00 Tm (compartilhadas.) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.1 Tf 1 0 0 1 63.00 659.50 Tm (\225 No\347\365es de Set para valores \372nicos e Map para associa\347\365es chave\226valor; iter\341veis personalizados e) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.1 Tf 1 0 0 1 63.00 645.00 Tm (geradores ficam para consulta posterior.) Tj ET
+0.100 0.160 0.200 rg BT /F2 11.1 Tf 1 0 0 1 54.00 616.50 Tm (Compet\352ncias) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.1 Tf 1 0 0 1 63.00 592.50 Tm (\225 Escolher uma representa\347\343o e um m\351todo de cole\347\343o adequados ao problema.) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.1 Tf 1 0 0 1 63.00 576.00 Tm (\225 Produzir relat\363rios por transforma\347\343o, filtragem e agrega\347\343o sem loops desnecessariamente complexos.) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.1 Tf 1 0 0 1 63.00 559.50 Tm (\225 Explicar quando uma opera\347\343o modifica os dados originais.) Tj ET
+0.100 0.160 0.200 rg BT /F2 11.1 Tf 1 0 0 1 54.00 531.00 Tm (Exerc\355cio integrador) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.3 Tf 1 0 0 1 54.00 504.00 Tm (Relat\363rio de pedidos. Processar uma cole\347\343o de pedidos para filtrar estados, calcular totais, localizar) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.3 Tf 1 0 0 1 54.00 489.10 Tm (registros e produzir um resumo.) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.3 Tf 1 0 0 1 54.00 466.20 Tm (Crit\351rios de conclus\343o:) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.1 Tf 1 0 0 1 63.00 446.30 Tm (\225 Separar obten\347\343o, transforma\347\343o e apresenta\347\343o dos dados.) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.1 Tf 1 0 0 1 63.00 429.80 Tm (\225 Utilizar corretamente opera\347\365es imut\341veis quando a cole\347\343o original deve permanecer intacta.) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.1 Tf 1 0 0 1 63.00 413.30 Tm (\225 Testar cole\347\365es vazias e dados n\343o encontrados.) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.3 Tf 1 0 0 1 54.00 391.80 Tm (Ambiente: Console do navegador ou Node.js.) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.3 Tf 1 0 0 1 54.00 371.90 Tm (Consultar m\363dulo) Tj ET
+0.080 0.400 0.310 rg BT /F2 14.4 Tf 1 0 0 1 54.00 330.30 Tm (JS-04 \227 Objetos, M\351todos e Classes) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.3 Tf 1 0 0 1 54.00 299.30 Tm (Objetivo: Modelar entidades e compreender identidade, refer\352ncias, m\351todos e a base da orienta\347\343o a) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.3 Tf 1 0 0 1 54.00 284.40 Tm (objetos em JavaScript.) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.3 Tf 1 0 0 1 54.00 261.50 Tm (Pr\351-requisito: JS-03 e seus fundamentos essenciais.) Tj ET
+0.100 0.160 0.200 rg BT /F2 11.1 Tf 1 0 0 1 54.00 231.60 Tm (JS-04.01 \227 Objetos, propriedades e refer\352ncias) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.1 Tf 1 0 0 1 63.00 207.60 Tm (\225 Cria\347\343o com literais, leitura e escrita com ponto/colchetes, propriedades calculadas, opera\347\365es com) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.1 Tf 1 0 0 1 63.00 193.10 Tm (Object.keys, Object.values e Object.entries.) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.1 Tf 1 0 0 1 63.00 176.60 Tm (\225 Identidade de objetos, compara\347\343o por refer\352ncia, muta\347\343o, c\363pias superficiais e diferen\347a entre c\363pia e) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.1 Tf 1 0 0 1 63.00 162.10 Tm (compartilhamento de refer\352ncias.) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.1 Tf 1 0 0 1 63.00 145.60 Tm (\225 Destructuring de objetos e propriedades opcionais com ?.; Symbol como chave especial \351 conte\372do de) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.1 Tf 1 0 0 1 63.00 131.10 Tm (consulta, n\343o requisito inicial.) Tj ET
+0.100 0.160 0.200 rg BT /F2 11.1 Tf 1 0 0 1 54.00 102.60 Tm (JS-04.02 \227 M\351todos e contexto de this) Tj ET
+0.810 0.860 0.840 RG .5 w 54 54 m 541.28 54 l S
+0.310 0.400 0.430 rg BT /F1 8 Tf 1 0 0 1 54 39 Tm (Fundamentos de JavaScript - Estudo e Pratica) Tj ET
+0.310 0.400 0.430 rg BT /F2 8 Tf 1 0 0 1 527.28 39 Tm (4) Tj ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 14 0 R >>
+endobj
+14 0 obj
+<< /Length 4899 >>
+stream
+0.080 0.400 0.310 rg 0 831.89 595.28 10 re f
+0.310 0.400 0.430 rg BT /F2 9 Tf 1 0 0 1 54 808 Tm (JAVASCRIPT FOUNDATIONS LAB  /  CURRICULO) Tj ET
+0.810 0.860 0.840 RG 0.6 w 54 798 m 541.28 798 l S
+0.100 0.160 0.200 rg BT /F1 9.1 Tf 1 0 0 1 63.00 776.00 Tm (\225 M\351todos como fun\347\365es associadas a propriedades e valor de this determinado pela forma de chamada em) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.1 Tf 1 0 0 1 63.00 761.50 Tm (fun\347\365es comuns.) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.1 Tf 1 0 0 1 63.00 745.00 Tm (\225 Diferen\347a para o this l\351xico de arrow functions; risco de perder contexto ao passar m\351todos como) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.1 Tf 1 0 0 1 63.00 730.50 Tm (callbacks.) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.1 Tf 1 0 0 1 63.00 714.00 Tm (\225 Quando preferir fun\347\365es puras a objetos com estado; organiza\347\343o de comportamento sem acoplamento) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.1 Tf 1 0 0 1 63.00 699.50 Tm (desnecess\341rio.) Tj ET
+0.100 0.160 0.200 rg BT /F2 11.1 Tf 1 0 0 1 54.00 671.00 Tm (JS-04.03 \227 Prot\363tipos e classes essenciais) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.1 Tf 1 0 0 1 63.00 647.00 Tm (\225 Cadeia de prot\363tipos para procura de propriedades e m\351todos; rela\347\343o entre classes JavaScript e) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.1 Tf 1 0 0 1 63.00 632.50 Tm (prot\363tipos.) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.1 Tf 1 0 0 1 63.00 616.00 Tm (\225 class, constructor, m\351todos de inst\342ncia e new; introdu\347\343o criteriosa a extends e super.) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.1 Tf 1 0 0 1 63.00 599.50 Tm (\225 Usar classes quando agregarem clareza; n\343o exigir reescrever classes em cadeias manuais de) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.1 Tf 1 0 0 1 63.00 585.00 Tm (construtores ou dominar heran\347a complexa.) Tj ET
+0.100 0.160 0.200 rg BT /F2 11.1 Tf 1 0 0 1 54.00 556.50 Tm (Compet\352ncias) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.1 Tf 1 0 0 1 63.00 532.50 Tm (\225 Modelar dados e distinguir refer\352ncia de c\363pia em objetos e arrays.) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.1 Tf 1 0 0 1 63.00 516.00 Tm (\225 Criar m\351todos e explicar o comportamento de this em chamadas comuns.) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.1 Tf 1 0 0 1 63.00 499.50 Tm (\225 Reconhecer o funcionamento b\341sico de classes e prot\363tipos e escolher abstra\347\365es proporcionais.) Tj ET
+0.100 0.160 0.200 rg BT /F2 11.1 Tf 1 0 0 1 54.00 471.00 Tm (Exerc\355cio integrador) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.3 Tf 1 0 0 1 54.00 444.00 Tm (Gestor de cat\341logo. Implementar um cat\341logo simples com entidades, opera\347\365es de atualiza\347\343o e m\351todos) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.3 Tf 1 0 0 1 54.00 429.10 Tm (para consultar ou modificar registros.) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.3 Tf 1 0 0 1 54.00 406.20 Tm (Crit\351rios de conclus\343o:) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.1 Tf 1 0 0 1 63.00 386.30 Tm (\225 Evitar muta\347\365es acidentais e acessar propriedades de maneira segura.) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.1 Tf 1 0 0 1 63.00 369.80 Tm (\225 Justificar o uso de objetos literais ou de uma classe simples.) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.1 Tf 1 0 0 1 63.00 353.30 Tm (\225 N\343o criar hierarquias de heran\347a artificiais.) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.3 Tf 1 0 0 1 54.00 331.80 Tm (Ambiente: Console do navegador ou Node.js.) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.3 Tf 1 0 0 1 54.00 311.90 Tm (Consultar m\363dulo) Tj ET
+0.080 0.400 0.310 rg BT /F2 14.4 Tf 1 0 0 1 54.00 270.30 Tm (JS-05 \227 Sintaxe Pr\341tica e M\363dulos) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.3 Tf 1 0 0 1 54.00 239.30 Tm (Objetivo: Utilizar recursos modernos da linguagem e dividir c\363digo em m\363dulos com responsabilidades) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.3 Tf 1 0 0 1 54.00 224.40 Tm (definidas.) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.3 Tf 1 0 0 1 54.00 201.50 Tm (Pr\351-requisito: JS-04 e seus fundamentos essenciais.) Tj ET
+0.100 0.160 0.200 rg BT /F2 11.1 Tf 1 0 0 1 54.00 171.60 Tm (JS-05.01 \227 Express\365es e opera\347\365es modernas) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.1 Tf 1 0 0 1 63.00 147.60 Tm (\225 Destructuring, spread/rest, par\342metros padr\343o, propriedades abreviadas e template literals aplicados a) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.1 Tf 1 0 0 1 63.00 133.10 Tm (problemas reais.) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.1 Tf 1 0 0 1 63.00 116.60 Tm (\225 ?., ?? e diferen\347a para ||; escolher valores padr\343o sem confundir zero e string vazia com aus\352ncia de valor.) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.1 Tf 1 0 0 1 63.00 100.10 Tm (\225 Evitar espalhar dados em excesso ou fazer c\363pias superficiais como se fossem profundas.) Tj ET
+0.810 0.860 0.840 RG .5 w 54 54 m 541.28 54 l S
+0.310 0.400 0.430 rg BT /F1 8 Tf 1 0 0 1 54 39 Tm (Fundamentos de JavaScript - Estudo e Pratica) Tj ET
+0.310 0.400 0.430 rg BT /F2 8 Tf 1 0 0 1 527.28 39 Tm (5) Tj ET
+endstream
+endobj
+15 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 16 0 R >>
+endobj
+16 0 obj
+<< /Length 4834 >>
+stream
+0.080 0.400 0.310 rg 0 831.89 595.28 10 re f
+0.310 0.400 0.430 rg BT /F2 9 Tf 1 0 0 1 54 808 Tm (JAVASCRIPT FOUNDATIONS LAB  /  CURRICULO) Tj ET
+0.810 0.860 0.840 RG 0.6 w 54 798 m 541.28 798 l S
+0.100 0.160 0.200 rg BT /F2 11.1 Tf 1 0 0 1 54.00 766.00 Tm (JS-05.02 \227 M\363dulos ECMAScript) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.1 Tf 1 0 0 1 63.00 742.00 Tm (\225 export nomeado e default, import, depend\352ncias entre arquivos e escopo de m\363dulo.) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.1 Tf 1 0 0 1 63.00 725.50 Tm (\225 Configura\347\343o b\341sica de m\363dulos no navegador \(type="module"\) e no Node.js \(ESM\); distinguir resolu\347\343o de) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.1 Tf 1 0 0 1 63.00 711.00 Tm (m\363dulos do c\363digo da linguagem.) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.1 Tf 1 0 0 1 63.00 694.50 Tm (\225 Divis\343o entre entrada, regras, utilit\341rios e dados; cuidado com depend\352ncias circulares.) Tj ET
+0.100 0.160 0.200 rg BT /F2 11.1 Tf 1 0 0 1 54.00 666.00 Tm (Compet\352ncias) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.1 Tf 1 0 0 1 63.00 642.00 Tm (\225 Aplicar sintaxe moderna para melhorar legibilidade sem esconder o fluxo.) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.1 Tf 1 0 0 1 63.00 625.50 Tm (\225 Dividir uma solu\347\343o em m\363dulos independentes e import\341-los corretamente.) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.1 Tf 1 0 0 1 63.00 609.00 Tm (\225 Executar uma pequena aplica\347\343o modular e explicar suas depend\352ncias.) Tj ET
+0.100 0.160 0.200 rg BT /F2 11.1 Tf 1 0 0 1 54.00 580.50 Tm (Exerc\355cio integrador) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.3 Tf 1 0 0 1 54.00 553.50 Tm (Cat\341logo modular. Distribuir fun\347\365es e dados de um cat\341logo por m\363dulos, usando importa\347\365es expl\355citas e) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.3 Tf 1 0 0 1 54.00 538.60 Tm (recursos modernos de acesso e composi\347\343o.) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.3 Tf 1 0 0 1 54.00 515.70 Tm (Crit\351rios de conclus\343o:) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.1 Tf 1 0 0 1 63.00 495.80 Tm (\225 Cada m\363dulo possui responsabilidade identific\341vel.) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.1 Tf 1 0 0 1 63.00 479.30 Tm (\225 Evitar depend\352ncias circulares e duplica\347\343o de regras.) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.1 Tf 1 0 0 1 63.00 462.80 Tm (\225 Executar o conjunto no ambiente escolhido e registrar o procedimento.) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.3 Tf 1 0 0 1 54.00 441.30 Tm (Ambiente: Preferencialmente Node.js ou navegador com suporte a ESM.) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.3 Tf 1 0 0 1 54.00 421.40 Tm (Consultar m\363dulo) Tj ET
+0.080 0.400 0.310 rg BT /F2 14.4 Tf 1 0 0 1 54.00 379.80 Tm (JS-06 \227 Erros, Depura\347\343o e Testes) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.3 Tf 1 0 0 1 54.00 348.80 Tm (Objetivo: Tratar falhas de forma previs\355vel e verificar o comportamento do c\363digo com casos) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.3 Tf 1 0 0 1 54.00 333.90 Tm (reproduz\355veis.) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.3 Tf 1 0 0 1 54.00 311.00 Tm (Pr\351-requisito: JS-05 e seus fundamentos essenciais.) Tj ET
+0.100 0.160 0.200 rg BT /F2 11.1 Tf 1 0 0 1 54.00 281.10 Tm (JS-06.01 \227 Erros, exce\347\365es e valida\347\343o) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.1 Tf 1 0 0 1 63.00 257.10 Tm (\225 Erros de sintaxe, de execu\347\343o e de l\363gica; objeto Error, throw, try...catch...finally e propaga\347\343o de) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.1 Tf 1 0 0 1 63.00 242.60 Tm (exce\347\365es.) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.1 Tf 1 0 0 1 63.00 226.10 Tm (\225 Valida\347\343o de par\342metros e mensagens de erro \372teis, sem capturar exce\347\365es indiscriminadamente.) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.1 Tf 1 0 0 1 63.00 209.60 Tm (\225 Diferen\347a entre erro de programa\347\343o e resultado de dom\355nio esperado, como busca sem correspond\352ncia.) Tj ET
+0.100 0.160 0.200 rg BT /F2 11.1 Tf 1 0 0 1 54.00 181.10 Tm (JS-06.02 \227 Depura\347\343o e testes fundamentais) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.1 Tf 1 0 0 1 63.00 157.10 Tm (\225 Leitura de stack trace, console e breakpoints no DevTools ou depurador do runtime.) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.1 Tf 1 0 0 1 63.00 140.60 Tm (\225 Casos positivos, negativos e limites; testes automatizados b\341sicos com node:test/node:assert quando) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.1 Tf 1 0 0 1 63.00 126.10 Tm (Node.js estiver dispon\355vel, sem depend\352ncia de frameworks.) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.1 Tf 1 0 0 1 63.00 109.60 Tm (\225 Separa\347\343o de l\363gica e efeitos para facilitar testes; evitar testes que apenas repetem a implementa\347\343o.) Tj ET
+0.810 0.860 0.840 RG .5 w 54 54 m 541.28 54 l S
+0.310 0.400 0.430 rg BT /F1 8 Tf 1 0 0 1 54 39 Tm (Fundamentos de JavaScript - Estudo e Pratica) Tj ET
+0.310 0.400 0.430 rg BT /F2 8 Tf 1 0 0 1 527.28 39 Tm (6) Tj ET
+endstream
+endobj
+17 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 18 0 R >>
+endobj
+18 0 obj
+<< /Length 4705 >>
+stream
+0.080 0.400 0.310 rg 0 831.89 595.28 10 re f
+0.310 0.400 0.430 rg BT /F2 9 Tf 1 0 0 1 54 808 Tm (JAVASCRIPT FOUNDATIONS LAB  /  CURRICULO) Tj ET
+0.810 0.860 0.840 RG 0.6 w 54 798 m 541.28 798 l S
+0.100 0.160 0.200 rg BT /F2 11.1 Tf 1 0 0 1 54.00 766.00 Tm (Compet\352ncias) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.1 Tf 1 0 0 1 63.00 742.00 Tm (\225 Lan\347ar e tratar exce\347\365es sem ocultar problemas reais.) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.1 Tf 1 0 0 1 63.00 725.50 Tm (\225 Investigar erros usando stack trace e ferramentas de depura\347\343o.) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.1 Tf 1 0 0 1 63.00 709.00 Tm (\225 Escrever verifica\347\365es reproduz\355veis para comportamentos esperados.) Tj ET
+0.100 0.160 0.200 rg BT /F2 11.1 Tf 1 0 0 1 54.00 680.50 Tm (Exerc\355cio integrador) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.3 Tf 1 0 0 1 54.00 653.50 Tm (Validador de registros. Validar entradas de um conjunto de registros e apresentar erros intelig\355veis;) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.3 Tf 1 0 0 1 54.00 638.60 Tm (incluir testes de casos v\341lidos, inv\341lidos e extremos.) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.3 Tf 1 0 0 1 54.00 615.70 Tm (Crit\351rios de conclus\343o:) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.1 Tf 1 0 0 1 63.00 595.80 Tm (\225 As valida\347\365es possuem mensagens compreens\355veis.) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.1 Tf 1 0 0 1 63.00 579.30 Tm (\225 Erros n\343o s\343o silenciados; casos de dom\355nio s\343o tratados conscientemente.) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.1 Tf 1 0 0 1 63.00 562.80 Tm (\225 Testes executam sem servi\347os externos.) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.3 Tf 1 0 0 1 54.00 541.30 Tm (Ambiente: Node.js com m\363dulo de testes nativo ou verifica\347\365es automatizadas simples.) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.3 Tf 1 0 0 1 54.00 521.40 Tm (Consultar m\363dulo) Tj ET
+0.080 0.400 0.310 rg BT /F2 14.4 Tf 1 0 0 1 54.00 479.80 Tm (JS-07 \227 Assincronismo e Modelo de Execu\347\343o) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.3 Tf 1 0 0 1 54.00 448.80 Tm (Objetivo: Coordenar tarefas ass\355ncronas, tratar falhas e compreender a ordem de execu\347\343o em alto n\355vel.) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.3 Tf 1 0 0 1 54.00 425.90 Tm (Pr\351-requisito: JS-06 e seus fundamentos essenciais.) Tj ET
+0.100 0.160 0.200 rg BT /F2 11.1 Tf 1 0 0 1 54.00 396.00 Tm (JS-07.01 \227 Callbacks e Promises) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.1 Tf 1 0 0 1 63.00 372.00 Tm (\225 C\363digo s\355ncrono e callbacks; APIs de temporiza\347\343o como exemplo de opera\347\343o fornecida pelo ambiente.) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.1 Tf 1 0 0 1 63.00 355.50 Tm (\225 Ciclo de vida de Promises, then, catch e finally; encadeamento e propaga\347\343o de falhas.) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.1 Tf 1 0 0 1 63.00 339.00 Tm (\225 Composi\347\343o com Promise.all e Promise.allSettled quando houver tarefas independentes.) Tj ET
+0.100 0.160 0.200 rg BT /F2 11.1 Tf 1 0 0 1 54.00 310.50 Tm (JS-07.02 \227 Fun\347\365es async e await) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.1 Tf 1 0 0 1 63.00 286.50 Tm (\225 Fun\347\365es async, uso de await, tratamento de erros com try...catch e retorno de Promises.) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.1 Tf 1 0 0 1 63.00 270.00 Tm (\225 Diferen\347a entre execu\347\343o sequencial e concorrente; evitar await serial desnecess\341rio.) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.1 Tf 1 0 0 1 63.00 253.50 Tm (\225 Cancelar ou controlar opera\347\365es \351 responsabilidade da API e do ambiente; reconhecimento b\341sico de) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.1 Tf 1 0 0 1 63.00 239.00 Tm (AbortController.) Tj ET
+0.100 0.160 0.200 rg BT /F2 11.1 Tf 1 0 0 1 54.00 210.50 Tm (JS-07.03 \227 Event loop e ordem de execu\347\343o) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.1 Tf 1 0 0 1 63.00 186.50 Tm (\225 Pilha de chamadas, tarefas e microtarefas; relacionamento entre execu\347\343o s\355ncrona, timers e rea\347\365es de) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.1 Tf 1 0 0 1 63.00 172.00 Tm (Promises.) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.1 Tf 1 0 0 1 63.00 155.50 Tm (\225 Exerc\355cios simples de ordena\347\343o; compreender que o modelo de agendamento depende do ambiente de) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.1 Tf 1 0 0 1 63.00 141.00 Tm (execu\347\343o.) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.1 Tf 1 0 0 1 63.00 124.50 Tm (\225 N\343o confundir ass\355ncrono com execu\347\343o paralela autom\341tica de JavaScript.) Tj ET
+0.100 0.160 0.200 rg BT /F2 11.1 Tf 1 0 0 1 54.00 96.00 Tm (Compet\352ncias) Tj ET
+0.810 0.860 0.840 RG .5 w 54 54 m 541.28 54 l S
+0.310 0.400 0.430 rg BT /F1 8 Tf 1 0 0 1 54 39 Tm (Fundamentos de JavaScript - Estudo e Pratica) Tj ET
+0.310 0.400 0.430 rg BT /F2 8 Tf 1 0 0 1 527.28 39 Tm (7) Tj ET
+endstream
+endobj
+19 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 20 0 R >>
+endobj
+20 0 obj
+<< /Length 4726 >>
+stream
+0.080 0.400 0.310 rg 0 831.89 595.28 10 re f
+0.310 0.400 0.430 rg BT /F2 9 Tf 1 0 0 1 54 808 Tm (JAVASCRIPT FOUNDATIONS LAB  /  CURRICULO) Tj ET
+0.810 0.860 0.840 RG 0.6 w 54 798 m 541.28 798 l S
+0.100 0.160 0.200 rg BT /F1 9.1 Tf 1 0 0 1 63.00 774.00 Tm (\225 Implementar fluxos ass\355ncronos com Promises e async/await.) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.1 Tf 1 0 0 1 63.00 757.50 Tm (\225 Tratar rejei\347\365es e escolher entre sequ\352ncia e concorr\352ncia.) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.1 Tf 1 0 0 1 63.00 741.00 Tm (\225 Explicar resultados de ordena\347\343o de tarefas sem depender de detalhes internos avan\347ados.) Tj ET
+0.100 0.160 0.200 rg BT /F2 11.1 Tf 1 0 0 1 54.00 712.50 Tm (Exerc\355cio integrador) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.3 Tf 1 0 0 1 54.00 685.50 Tm (Simulador de tarefas ass\355ncronas. Orquestrar tarefas simuladas com tempos e resultados diferentes,) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.3 Tf 1 0 0 1 54.00 670.60 Tm (informar andamento e tratar falhas com Promises.) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.3 Tf 1 0 0 1 54.00 647.70 Tm (Crit\351rios de conclus\343o:) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.1 Tf 1 0 0 1 63.00 627.80 Tm (\225 Executar tarefas sequenciais e concorrentes quando apropriado.) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.1 Tf 1 0 0 1 63.00 611.30 Tm (\225 Tratar rejei\347\365es sem deixar Promises pendentes sem observa\347\343o.) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.1 Tf 1 0 0 1 63.00 594.80 Tm (\225 Prever a ordem dos logs s\355ncronos, de microtarefas e de timers simples.) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.3 Tf 1 0 0 1 54.00 573.30 Tm (Ambiente: Node.js ou navegador; sem depend\352ncia de API externa.) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.3 Tf 1 0 0 1 54.00 553.40 Tm (Consultar m\363dulo) Tj ET
+0.080 0.400 0.310 rg BT /F2 14.4 Tf 1 0 0 1 54.00 511.80 Tm (JS-08 \227 DOM e Eventos) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.3 Tf 1 0 0 1 54.00 480.80 Tm (Objetivo: Conectar a l\363gica JavaScript \340 interface HTML respeitando estrutura, eventos e acessibilidade.) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.3 Tf 1 0 0 1 54.00 457.90 Tm (Pr\351-requisito: JS-07 e seus fundamentos essenciais.) Tj ET
+0.100 0.160 0.200 rg BT /F2 11.1 Tf 1 0 0 1 54.00 428.00 Tm (JS-08.01 \227 Document, DOM e manipula\347\343o) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.1 Tf 1 0 0 1 63.00 404.00 Tm (\225 Diferen\347a entre JavaScript, objetos do navegador \(window, document\) e DOM.) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.1 Tf 1 0 0 1 63.00 387.50 Tm (\225 Consulta com querySelector e querySelectorAll, propriedades e atributos; textContent, createElement,) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.1 Tf 1 0 0 1 63.00 373.00 Tm (append e remo\347\343o.) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.1 Tf 1 0 0 1 63.00 356.50 Tm (\225 Manipula\347\343o de classes e estados sem substituir a sem\342ntica HTML; preferir textContent para texto n\343o) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.1 Tf 1 0 0 1 63.00 342.00 Tm (confi\341vel.) Tj ET
+0.100 0.160 0.200 rg BT /F2 11.1 Tf 1 0 0 1 54.00 313.50 Tm (JS-08.02 \227 Eventos, formul\341rios e estado de interface) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.1 Tf 1 0 0 1 63.00 289.50 Tm (\225 addEventListener, objeto de evento, propaga\347\343o, delega\347\343o e preventDefault\(\) quando pertinente.) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.1 Tf 1 0 0 1 63.00 273.00 Tm (\225 Leitura de campos e eventos de formul\341rios; valida\347\343o e mensagens compreens\355veis para o usu\341rio.) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.1 Tf 1 0 0 1 63.00 256.50 Tm (\225 Atualiza\347\343o consistente de listas, contadores e estados vazios; cuidados com foco e feedback acess\355vel.) Tj ET
+0.100 0.160 0.200 rg BT /F2 11.1 Tf 1 0 0 1 54.00 228.00 Tm (Compet\352ncias) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.1 Tf 1 0 0 1 63.00 204.00 Tm (\225 Selecionar, criar e atualizar elementos do DOM corretamente.) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.1 Tf 1 0 0 1 63.00 187.50 Tm (\225 Responder a eventos e processar dados de formul\341rios.) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.1 Tf 1 0 0 1 63.00 171.00 Tm (\225 Separar regras de neg\363cio da manipula\347\343o do documento.) Tj ET
+0.100 0.160 0.200 rg BT /F2 11.1 Tf 1 0 0 1 54.00 142.50 Tm (Exerc\355cio integrador) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.3 Tf 1 0 0 1 54.00 115.50 Tm (Painel interativo de tarefas. Criar p\341gina com formul\341rio e lista filtr\341vel, permitindo adicionar, atualizar e) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.3 Tf 1 0 0 1 54.00 100.60 Tm (remover tarefas sem recarregar o documento.) Tj ET
+0.810 0.860 0.840 RG .5 w 54 54 m 541.28 54 l S
+0.310 0.400 0.430 rg BT /F1 8 Tf 1 0 0 1 54 39 Tm (Fundamentos de JavaScript - Estudo e Pratica) Tj ET
+0.310 0.400 0.430 rg BT /F2 8 Tf 1 0 0 1 527.28 39 Tm (8) Tj ET
+endstream
+endobj
+21 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 22 0 R >>
+endobj
+22 0 obj
+<< /Length 4798 >>
+stream
+0.080 0.400 0.310 rg 0 831.89 595.28 10 re f
+0.310 0.400 0.430 rg BT /F2 9 Tf 1 0 0 1 54 808 Tm (JAVASCRIPT FOUNDATIONS LAB  /  CURRICULO) Tj ET
+0.810 0.860 0.840 RG 0.6 w 54 798 m 541.28 798 l S
+0.100 0.160 0.200 rg BT /F1 9.3 Tf 1 0 0 1 54.00 773.00 Tm (Crit\351rios de conclus\343o:) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.1 Tf 1 0 0 1 63.00 753.10 Tm (\225 Os controles podem ser usados com mouse e teclado.) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.1 Tf 1 0 0 1 63.00 736.60 Tm (\225 Estado, contagem e lista permanecem sincronizados.) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.1 Tf 1 0 0 1 63.00 720.10 Tm (\225 O c\363digo separa dados, eventos e renderiza\347\343o.) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.3 Tf 1 0 0 1 54.00 698.60 Tm (Ambiente: Navegador com HTML e CSS; JavaScript respons\341vel pelo comportamento.) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.3 Tf 1 0 0 1 54.00 678.70 Tm (Consultar m\363dulo) Tj ET
+0.080 0.400 0.310 rg BT /F2 14.4 Tf 1 0 0 1 54.00 637.10 Tm (JS-09 \227 HTTP, JSON e Integra\347\343o Web) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.3 Tf 1 0 0 1 54.00 606.10 Tm (Objetivo: Consumir servi\347os web e transformar respostas em dados e interfaces, formando a ponte para) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.3 Tf 1 0 0 1 54.00 591.20 Tm (APIs e backend.) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.3 Tf 1 0 0 1 54.00 568.30 Tm (Pr\351-requisito: JS-08 e seus fundamentos essenciais.) Tj ET
+0.100 0.160 0.200 rg BT /F2 11.1 Tf 1 0 0 1 54.00 538.40 Tm (JS-09.01 \227 HTTP, fetch e JSON) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.1 Tf 1 0 0 1 63.00 514.40 Tm (\225 Diferen\347a entre JavaScript e a Web API fetch; vis\343o pr\341tica de URL, requisi\347\343o/resposta, m\351todos) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.1 Tf 1 0 0 1 63.00 499.90 Tm (GET/POST e cabe\347alhos.) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.1 Tf 1 0 0 1 63.00 483.40 Tm (\225 fetch, objeto Response, verifica\347\343o de response.ok, corpo JSON e distin\347\343o entre erros de rede e status) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.1 Tf 1 0 0 1 63.00 468.90 Tm (HTTP de erro.) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.1 Tf 1 0 0 1 63.00 452.40 Tm (\225 JSON.parse/JSON.stringify, convers\343o entre texto JSON e valores JavaScript; no\347\365es de CORS e limites) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.1 Tf 1 0 0 1 63.00 437.90 Tm (de seguran\347a no navegador.) Tj ET
+0.100 0.160 0.200 rg BT /F2 11.1 Tf 1 0 0 1 54.00 409.40 Tm (JS-09.02 \227 Integra\347\343o e estados de interface) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.1 Tf 1 0 0 1 63.00 385.40 Tm (\225 Organiza\347\343o do fluxo de requisi\347\343o, transforma\347\343o de dados e apresenta\347\343o no DOM.) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.1 Tf 1 0 0 1 63.00 368.90 Tm (\225 Tratamento de carregamento, sucesso, lista vazia, erros e atualiza\347\343o do estado de interface.) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.1 Tf 1 0 0 1 63.00 352.40 Tm (\225 Separar camada de acesso a dados da apresenta\347\343o, evitando acoplamento a detalhes de uma API.) Tj ET
+0.100 0.160 0.200 rg BT /F2 11.1 Tf 1 0 0 1 54.00 323.90 Tm (Compet\352ncias) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.1 Tf 1 0 0 1 63.00 299.90 Tm (\225 Consumir dados JSON com fetch, tratando corretamente status e erros.) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.1 Tf 1 0 0 1 63.00 283.40 Tm (\225 Transformar respostas em informa\347\365es \372teis e renderiz\341-las em interface.) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.1 Tf 1 0 0 1 63.00 266.90 Tm (\225 Explicar o caminho frontend - HTTP - servi\347o - resposta e a necessidade de um backend real.) Tj ET
+0.100 0.160 0.200 rg BT /F2 11.1 Tf 1 0 0 1 54.00 238.40 Tm (Exerc\355cio integrador) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.3 Tf 1 0 0 1 54.00 211.40 Tm (Consulta de dados de uma API. Implementar p\341gina que consulta um endpoint de teste e apresenta resultados) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.3 Tf 1 0 0 1 54.00 196.50 Tm (com estados de carregamento, sucesso e erro.) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.3 Tf 1 0 0 1 54.00 173.60 Tm (Crit\351rios de conclus\343o:) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.1 Tf 1 0 0 1 63.00 153.70 Tm (\225 Verificar response.ok e tratar JSON inv\341lido ou resultados vazios.) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.1 Tf 1 0 0 1 63.00 137.20 Tm (\225 Conservar a interface utiliz\341vel em falhas de rede.) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.1 Tf 1 0 0 1 63.00 120.70 Tm (\225 Separar requisi\347\343o, processamento e renderiza\347\343o em fun\347\365es ou m\363dulos.) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.3 Tf 1 0 0 1 54.00 99.20 Tm (Ambiente: Navegador; endpoint documentado e acess\355vel ou servi\347o de teste controlado.) Tj ET
+0.810 0.860 0.840 RG .5 w 54 54 m 541.28 54 l S
+0.310 0.400 0.430 rg BT /F1 8 Tf 1 0 0 1 54 39 Tm (Fundamentos de JavaScript - Estudo e Pratica) Tj ET
+0.310 0.400 0.430 rg BT /F2 8 Tf 1 0 0 1 527.28 39 Tm (9) Tj ET
+endstream
+endobj
+23 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 24 0 R >>
+endobj
+24 0 obj
+<< /Length 2207 >>
+stream
+0.080 0.400 0.310 rg 0 831.89 595.28 10 re f
+0.310 0.400 0.430 rg BT /F2 9 Tf 1 0 0 1 54 808 Tm (JAVASCRIPT FOUNDATIONS LAB  /  CURRICULO) Tj ET
+0.810 0.860 0.840 RG 0.6 w 54 798 m 541.28 798 l S
+0.100 0.160 0.200 rg BT /F1 9.3 Tf 1 0 0 1 54.00 776.00 Tm (Consultar m\363dulo) Tj ET
+0.080 0.400 0.310 rg BT /F2 14.4 Tf 1 0 0 1 54.00 734.40 Tm (Aprofundamentos sob demanda) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.3 Tf 1 0 0 1 54.00 706.40 Tm (Ap\363s dominar os fundamentos, consultar somente quando necess\341rio: detalhes de prot\363tipos e heran\347a) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.3 Tf 1 0 0 1 54.00 691.80 Tm (complexa; Symbol e protocolos de itera\347\343o; geradores; express\365es regulares avan\347adas; metaprograma\347\343o) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.3 Tf 1 0 0 1 54.00 677.20 Tm (com Proxy/Reflect; programa\347\343o orientada a objetos avan\347ada; otimiza\347\365es do event loop espec\355ficas de) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.3 Tf 1 0 0 1 54.00 662.60 Tm (cada ambiente.) Tj ET
+0.080 0.400 0.310 rg BT /F2 14.4 Tf 1 0 0 1 54.00 631.00 Tm (Prepara\347\343o para backend) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.3 Tf 1 0 0 1 54.00 603.00 Tm (Ao concluir o percurso, o pr\363ximo passo \351 aplicar essas compet\352ncias em Node.js, trabalhando com m\363dulos,) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.3 Tf 1 0 0 1 54.00 588.40 Tm (arquivos, pacotes, HTTP, APIs, persist\352ncia e testes mais abrangentes. Este Lab n\343o exige criar um) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.3 Tf 1 0 0 1 54.00 573.80 Tm (servidor ou banco de dados antes de estudar essas tecnologias.) Tj ET
+0.080 0.400 0.310 rg BT /F2 14.4 Tf 1 0 0 1 54.00 542.20 Tm (Refer\352ncias) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.1 Tf 1 0 0 1 63.00 514.20 Tm (\225 MDN \227 Guia JavaScript) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.1 Tf 1 0 0 1 63.00 497.70 Tm (\225 MDN \227 Fundamentos de JavaScript) Tj ET
+0.100 0.160 0.200 rg BT /F1 9.1 Tf 1 0 0 1 63.00 481.20 Tm (\225 MDN \227 Refer\352ncia JavaScript) Tj ET
+0.810 0.860 0.840 RG .5 w 54 54 m 541.28 54 l S
+0.310 0.400 0.430 rg BT /F1 8 Tf 1 0 0 1 54 39 Tm (Fundamentos de JavaScript - Estudo e Pratica) Tj ET
+0.310 0.400 0.430 rg BT /F2 8 Tf 1 0 0 1 527.28 39 Tm (10) Tj ET
+endstream
+endobj
+xref
+0 25
+0000000000 65535 f 
+0000000038 00000 n 
+0000000087 00000 n 
+0000000206 00000 n 
+0000000303 00000 n 
+0000000405 00000 n 
+0000000547 00000 n 
+0000006092 00000 n 
+0000006234 00000 n 
+0000011302 00000 n 
+0000011445 00000 n 
+0000016239 00000 n 
+0000016383 00000 n 
+0000021392 00000 n 
+0000021536 00000 n 
+0000026487 00000 n 
+0000026631 00000 n 
+0000031517 00000 n 
+0000031661 00000 n 
+0000036418 00000 n 
+0000036562 00000 n 
+0000041340 00000 n 
+0000041484 00000 n 
+0000046334 00000 n 
+0000046478 00000 n 
+trailer
+<< /Size 25 /Root 1 0 R >>
+startxref
+48737
+%%EOF
