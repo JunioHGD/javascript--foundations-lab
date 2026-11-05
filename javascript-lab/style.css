@@ -621,3 +621,14 @@ a:focus-visible,summary:focus-visible {
     display: block;
   }
 }
+
+/* Lista de tópicos exibida na vitrine */
+.topic-list {
+  margin: 6px 0 18px;
+  padding-left: 19px;
+  color: var(--ink);
+  font-size: 12px;
+  line-height: 1.75;
+}
+.topic-list li + li { margin-top: 6px; }
+.topic-list strong { color: var(--primary); }
