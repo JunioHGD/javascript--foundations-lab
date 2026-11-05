@@ -10,7 +10,7 @@ Conectar a lógica JavaScript à interface HTML respeitando estrutura, eventos e
 ## Competências
 
 - Selecionar, criar e atualizar elementos do DOM corretamente.
-- Responder a eventos e processar dados de formulários.
+- Responder a eventos e processar dados de formulários com `FormData` quando adequado, sem inserir dados externos como HTML inseguro.
 - Separar regras de negócio da manipulação do documento.
 
 ## Exercício integrador

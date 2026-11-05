@@ -12,6 +12,8 @@ Consolidar os fundamentos de JavaScript para resolver problemas, construir inter
 
 **Ambientes:** até JS-07, os exercícios podem ser executados no console do navegador ou no Node.js, conforme indicado; JS-08 e JS-09 requerem navegador para DOM e Web APIs. JavaScript é a linguagem; `document`, `fetch` e APIs de arquivos pertencem aos respectivos ambientes.
 
+**Foco profissional:** compreender dados, funções, controle de fluxo, módulos, tratamento de erros, testes, assincronismo e HTTP antes de avançar para Node.js. DOM e APIs do navegador são essenciais para integrar interfaces, mas não substituem os fundamentos da linguagem. Recursos avançados sem uso imediato ficam como consulta, não como pré-requisito.
+
 ## Mapa curricular
 
 | Módulo | Foco | Tópicos | Exercício integrador |
@@ -38,11 +40,12 @@ Consolidar os fundamentos de JavaScript para resolver problemas, construir inter
 
 - Execução de JavaScript em navegador e Node.js; `console`, arquivos `.js`, comentários, blocos e distinção entre linguagem e APIs do ambiente.
 - Tipos primitivos (`string`, `number`, `boolean`, `undefined`, `null`, `bigint`, `symbol`) e objetos; literais e `typeof`, incluindo a particularidade de `typeof null`.
+- Números em JavaScript: `NaN`, `Infinity`, conversão com `Number()`, verificação com `Number.isNaN()`/`Number.isFinite()` e cálculos úteis com `Math`; reconhecer limites do tipo `number` para valores monetários.
 - Bindings `const`, `let` e conhecimento de `var`; reatribuição, valores primitivos e `const` não significar imutabilidade de objetos.
 
 ### JS-01.02 — Expressões, operadores e decisões
 
-- Operadores aritméticos, de atribuição, comparação (`===`, `!==`) e lógicos (`&&`, `||`, `!`); precedência e curto-circuito.
+- Operadores aritméticos, de atribuição, comparação (`===`, `!==`, `<`, `>`) e lógicos (`&&`, `||`, `!`); precedência e curto-circuito.
 - Conversão explícita, coerção, `truthy`/`falsy`, diferença entre `==` e `===`; template literals.
 - Decisões com `if`, `else`, `switch` e operador condicional `?:`; condições legíveis e validação de entradas simples.
 
@@ -131,6 +134,7 @@ Consolidar os fundamentos de JavaScript para resolver problemas, construir inter
 - `map`, `filter`, `find`, `some`, `every` e `reduce`: escolher pelo resultado desejado, não por preferência estética.
 - Ordenação com `sort` e função comparadora, cópia com `slice` ou spread; cuidado com referências compartilhadas.
 - Noções de `Set` para valores únicos e `Map` para associações chave–valor; iteráveis personalizados e geradores ficam para consulta posterior.
+- Fundamentos de datas em aplicações: `Date`, timestamp, formato ISO 8601 e diferenças entre horário local e UTC; usar `Intl.DateTimeFormat` quando a apresentação exigir localização, sem aprofundar fusos horários neste Lab.
 
 ### Competências
 
@@ -164,7 +168,7 @@ Consolidar os fundamentos de JavaScript para resolver problemas, construir inter
 
 - Criação com literais, leitura e escrita com ponto/colchetes, propriedades calculadas, operações com `Object.keys`, `Object.values` e `Object.entries`.
 - Identidade de objetos, comparação por referência, mutação, cópias superficiais e diferença entre cópia e compartilhamento de referências.
-- Destructuring de objetos e propriedades opcionais com `?.`; `Symbol` como chave especial é conteúdo de consulta, não requisito inicial.
+- Destructuring de objetos, `...` para cópias superficiais e propriedades opcionais com `?.`; usar `??` para valores ausentes sem substituir `0` ou string vazia. `Symbol` como chave especial é conteúdo de consulta, não requisito inicial.
 
 ### JS-04.02 — Métodos e contexto de `this`
 
@@ -206,21 +210,21 @@ Consolidar os fundamentos de JavaScript para resolver problemas, construir inter
 
 **Pré-requisito:** JS-04 e seus fundamentos essenciais.
 
-### JS-05.01 — Expressões e operações modernas
+### JS-05.01 — Aplicação de recursos modernos
 
-- Destructuring, spread/rest, parâmetros padrão, propriedades abreviadas e template literals aplicados a problemas reais.
-- `?.`, `??` e diferença para `||`; escolher valores padrão sem confundir zero e string vazia com ausência de valor.
-- Evitar espalhar dados em excesso ou fazer cópias superficiais como se fossem profundas.
+- Consolidar, em uma implementação curta, recursos já introduzidos: template literals (JS-01), parâmetros padrão (JS-02), spread, destructuring, `?.` e `??` (JS-03/04). O objetivo é **aplicar**, não repetir aulas isoladas.
+- Usar rest parameters (`...args`) e propriedades abreviadas quando tornarem funções e objetos mais claros; distinguir `||` de `??` nos valores padrão.
+- Evitar sintaxe ornamental, cópias superficiais confundidas com profundas e operações com efeitos colaterais difíceis de rastrear.
 
 ### JS-05.02 — Módulos ECMAScript
 
 - `export` nomeado e `default`, `import`, dependências entre arquivos e escopo de módulo.
-- Configuração básica de módulos no navegador (`type="module"`) e no Node.js (ESM); distinguir resolução de módulos do código da linguagem.
+- Configuração básica de módulos no navegador (`type="module"`) e no Node.js (ESM); distinguir resolução de módulos do código da linguagem. Conhecer `package.json`, scripts npm e a diferença entre instalar dependências e escrever o próprio código, sem exigir bibliotecas externas.
 - Divisão entre entrada, regras, utilitários e dados; cuidado com dependências circulares.
 
 ### Competências
 
-- Aplicar sintaxe moderna para melhorar legibilidade sem esconder o fluxo.
+- Reutilizar a sintaxe moderna aprendida anteriormente para melhorar legibilidade, sem estudá-la novamente como conteúdo separado.
 - Dividir uma solução em módulos independentes e importá-los corretamente.
 - Executar uma pequena aplicação modular e explicar suas dependências.
 
@@ -254,7 +258,7 @@ Consolidar os fundamentos de JavaScript para resolver problemas, construir inter
 
 ### JS-06.02 — Depuração e testes fundamentais
 
-- Leitura de stack trace, `console` e breakpoints no DevTools ou depurador do runtime.
+- Leitura de stack trace, `console`, breakpoints no DevTools ou depurador do runtime e inspeção das entradas que provocam erro.
 - Casos positivos, negativos e limites; testes automatizados básicos com `node:test`/`node:assert` quando Node.js estiver disponível, sem dependência de frameworks.
 - Separação de lógica e efeitos para facilitar testes; evitar testes que apenas repetem a implementação.
 
@@ -341,8 +345,8 @@ Consolidar os fundamentos de JavaScript para resolver problemas, construir inter
 ### JS-08.02 — Eventos, formulários e estado de interface
 
 - `addEventListener`, objeto de evento, propagação, delegação e `preventDefault()` quando pertinente.
-- Leitura de campos e eventos de formulários; validação e mensagens compreensíveis para o usuário.
-- Atualização consistente de listas, contadores e estados vazios; cuidados com foco e feedback acessível.
+- Leitura de campos, eventos `input`, `change` e `submit`, `FormData` e `preventDefault()` quando pertinente; validação e mensagens compreensíveis para o usuário.
+- Atualização consistente de listas, contadores e estados vazios; cuidados com foco e feedback acessível. Priorizar `textContent` e criação de nós ao exibir dados externos, evitando inserir dados não confiáveis por `innerHTML`.
 
 ### Competências
 
@@ -374,19 +378,19 @@ Consolidar os fundamentos de JavaScript para resolver problemas, construir inter
 
 ### JS-09.01 — HTTP, fetch e JSON
 
-- Diferença entre JavaScript e a Web API `fetch`; visão prática de URL, requisição/resposta, métodos GET/POST e cabeçalhos.
+- Diferença entre JavaScript e a Web API `fetch`; visão prática de URL, requisição/resposta, métodos GET/POST, status HTTP, cabeçalhos e corpo. Construir parâmetros com `URL`/`URLSearchParams` em vez de concatenar strings sem cuidado.
 - `fetch`, objeto `Response`, verificação de `response.ok`, corpo JSON e distinção entre erros de rede e status HTTP de erro.
-- `JSON.parse`/`JSON.stringify`, conversão entre texto JSON e valores JavaScript; noções de CORS e limites de segurança no navegador.
+- `JSON.parse`/`JSON.stringify`, conversão entre texto JSON e valores JavaScript; noções de CORS e limites de segurança no navegador. Nunca incluir segredos privados (tokens de servidor, senhas de banco) no código entregue ao navegador.
 
 ### JS-09.02 — Integração e estados de interface
 
 - Organização do fluxo de requisição, transformação de dados e apresentação no DOM.
 - Tratamento de carregamento, sucesso, lista vazia, erros e atualização do estado de interface.
-- Separar camada de acesso a dados da apresentação, evitando acoplamento a detalhes de uma API.
+- Separar camada de acesso a dados da apresentação, evitando acoplamento a detalhes de uma API. Reconhecer `localStorage` como armazenamento local simples, opcional, e não como banco de dados ou lugar seguro para segredos.
 
 ### Competências
 
-- Consumir dados JSON com `fetch`, tratando corretamente status e erros.
+- Consumir dados JSON com `fetch`, utilizando URLs e parâmetros corretamente e tratando status HTTP, erros de rede e JSON inválido.
 - Transformar respostas em informações úteis e renderizá-las em interface.
 - Explicar o caminho frontend → HTTP → serviço → resposta e a necessidade de um backend real.
 
@@ -406,13 +410,21 @@ Consolidar os fundamentos de JavaScript para resolver problemas, construir inter
 
 ---
 
+## Critérios transversais de conclusão
+
+- **Correção:** explicar o código e prever resultados sem depender de tentativa e erro aleatória.
+- **Robustez:** tratar entradas inválidas, coleções vazias, exceções e respostas de API com erro.
+- **Manutenção:** organizar funções e módulos por responsabilidade, evitar duplicação e registrar como executar os exercícios.
+- **Verificação:** testar casos normais e de borda; inspecionar DOM, rede e console quando houver interface web.
+- **Segurança inicial:** não expor segredos no frontend e não inserir dados externos como HTML executável.
+
 ## Aprofundamentos sob demanda
 
 Após dominar os fundamentos, consultar **somente quando necessário**: detalhes de protótipos e herança complexa; `Symbol` e protocolos de iteração; geradores; expressões regulares avançadas; metaprogramação com `Proxy`/`Reflect`; programação orientada a objetos avançada; otimizações do event loop específicas de cada ambiente.
 
 ## Preparação para backend
 
-Ao concluir o percurso, o próximo passo é aplicar essas competências em **Node.js**, trabalhando com módulos, arquivos, pacotes, HTTP, APIs, persistência e testes mais abrangentes. Este Lab não exige criar um servidor ou banco de dados antes de estudar essas tecnologias.
+Ao concluir o percurso, o próximo passo é aplicar essas competências em **Node.js**, trabalhando com linha de comando, npm, módulos, sistema de arquivos, HTTP, APIs, persistência e testes mais abrangentes. **Git, terminal, fundamentos de HTTP e SQL** são conhecimentos complementares à trilha; não precisam virar módulos artificiais de JavaScript. Este Lab não exige criar um servidor ou banco de dados antes de estudar essas tecnologias.
 
 ## Referências
 

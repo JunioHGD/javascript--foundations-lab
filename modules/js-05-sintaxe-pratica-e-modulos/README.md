@@ -4,14 +4,14 @@ Utilizar recursos modernos da linguagem e dividir código em módulos com respon
 
 ## Tópicos
 
-- **JS-05.01 — Expressões e operações modernas**
+- **JS-05.01 — Aplicação de recursos modernos**
 - **JS-05.02 — Módulos ECMAScript**
 
 ## Competências
 
-- Aplicar sintaxe moderna para melhorar legibilidade sem esconder o fluxo.
+- Reutilizar sintaxe moderna aprendida nos módulos anteriores para melhorar a legibilidade sem retrabalho.
 - Dividir uma solução em módulos independentes e importá-los corretamente.
-- Executar uma pequena aplicação modular e explicar suas dependências.
+- Executar uma pequena aplicação modular, reconhecer `package.json` e scripts npm e explicar suas dependências.
 
 ## Exercício integrador
 

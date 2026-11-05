@@ -10,7 +10,7 @@ Modelar entidades e compreender identidade, referências, métodos e a base da o
 
 ## Competências
 
-- Modelar dados e distinguir referência de cópia em objetos e arrays.
+- Modelar dados e distinguir referência de cópia superficial em objetos e arrays.
 - Criar métodos e explicar o comportamento de `this` em chamadas comuns.
 - Reconhecer o funcionamento básico de classes e protótipos e escolher abstrações proporcionais.
 
