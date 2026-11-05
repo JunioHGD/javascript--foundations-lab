@@ -9,7 +9,7 @@ Consumir serviços web e transformar respostas em dados e interfaces, formando a
 
 ## Competências
 
-- Consumir dados JSON com `fetch`, tratando corretamente status e erros.
+- Consumir dados JSON com `fetch`, URLs e parâmetros adequados, tratando status HTTP, erros de rede e falhas de parsing.
 - Transformar respostas em informações úteis e renderizá-las em interface.
 - Explicar o caminho frontend → HTTP → serviço → resposta e a necessidade de um backend real.
 

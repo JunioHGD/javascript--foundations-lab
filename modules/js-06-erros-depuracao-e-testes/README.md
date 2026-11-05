@@ -10,7 +10,7 @@ Tratar falhas de forma previsível e verificar o comportamento do código com ca
 ## Competências
 
 - Lançar e tratar exceções sem ocultar problemas reais.
-- Investigar erros usando stack trace e ferramentas de depuração.
+- Investigar erros usando stack trace, entradas de teste e ferramentas de depuração.
 - Escrever verificações reproduzíveis para comportamentos esperados.
 
 ## Exercício integrador

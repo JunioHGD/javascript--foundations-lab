@@ -10,7 +10,7 @@ Escrever programas simples, prever o resultado de expressões e controlar decis�
 
 ## Competências
 
-- Explicar valores, tipos, coerção e o resultado de expressões comuns.
+- Explicar valores, tipos, coerção, `NaN` e o resultado de expressões numéricas e lógicas comuns.
 - Criar decisões e laços corretamente, sem depender de copiar soluções prontas.
 - Organizar uma rotina pequena e diagnosticar erros de sintaxe e de lógica.
 

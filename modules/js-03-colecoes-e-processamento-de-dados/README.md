@@ -10,7 +10,7 @@ Representar, percorrer e transformar conjuntos de informações com clareza e at
 ## Competências
 
 - Escolher uma representação e um método de coleção adequados ao problema.
-- Produzir relatórios por transformação, filtragem e agregação sem loops desnecessariamente complexos.
+- Produzir relatórios por transformação, filtragem e agregação sem loops desnecessariamente complexos; reconhecer datas, timestamps e formato ISO.
 - Explicar quando uma operação modifica os dados originais.
 
 ## Exercício integrador
