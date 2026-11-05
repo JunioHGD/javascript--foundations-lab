@@ -39,3 +39,7 @@ Cada módulo reúne tópicos conectados, competências e **um exercício integra
 Os conhecimentos de funções, objetos, módulos, erros, assincronismo, HTTP e JSON servirão de base para estudar **Node.js, APIs, bancos de dados e testes backend** em projetos próprios.
 
 [Ver currículo](./curriculum/curriculum.md) · [Abrir vitrine](https://juniohgd.github.io/javascript--foundations-lab/javascript-lab/)
+
+## Integração com os outros Labs
+
+O [HTML Foundations Lab](https://github.com/JunioHGD/html-foundations-lab) fornece a estrutura do documento; o [CSS Foundations Lab](https://github.com/JunioHGD/css-foundations-lab), a apresentação e o layout. JavaScript acrescenta dados, comportamento, eventos e integração HTTP.
