@@ -1,73 +1,41 @@
 # JavaScript Foundations Lab
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-Foundations-F7DF1E?logo=javascript&logoColor=000)
-![Status](https://img.shields.io/badge/status-em%20andamento-yellow)
-![Focus](https://img.shields.io/badge/foco-fundamentos%20%2B%20prática-blue)
 
-Laboratório dedicado ao estudo e à prática dos **fundamentos essenciais de JavaScript** para desenvolvimento Web full stack.
+Laboratório para consolidar os **fundamentos essenciais de JavaScript**, da lógica e das estruturas da linguagem à programação assíncrona e integração com a Web.
 
-O foco é compreender como a linguagem representa valores, resolve escopos, executa funções, manipula objetos e coordena erros e assincronismo, aplicando esses mecanismos em código real.
+## Acesso rápido
 
-> **Fundamentos → prática → execução → debugging**
-
-**Acesso rápido:** [Por onde começar](#por-onde-começar) · [Exercícios](#diretório-visual-de-exercícios) · [Competências](#competências) · [Percurso](#percurso) · [Estrutura do repositório](#estrutura-do-repositório)
-
-## Por onde começar
-
-| Objetivo | Caminho |
-| --- | --- |
-| Ver as implementações no navegador | <a href="https://juniohgd.github.io/javascript--foundations-lab/javascript-lab/" target="_blank" rel="noopener noreferrer">Explorar os exercícios do JavaScript Lab →</a> |
-| Consultar o código e os materiais de estudo | [`practice/`](./practice/) |
-| Entender a sequência e o escopo do estudo | [Currículo completo](./curriculum/curriculum.md) |
-
-## Diretório visual de exercícios
-
-O **diretório visual** organiza os módulos e tópicos deste Lab em uma página navegável. Conforme os exercícios forem publicados, será possível acessá-los e visualizar as implementações diretamente no navegador.
-
-> <a href="https://juniohgd.github.io/javascript--foundations-lab/javascript-lab/" target="_blank" rel="noopener noreferrer"><strong>Explorar os exercícios do JavaScript Lab →</strong></a>
-
-Os arquivos de estudo, exercícios e checkpoints também podem ser consultados na pasta [`practice/`](./practice/).
-
-## Competências
-
-Estas competências orientam o estudo e a prática ao longo do Lab:
-
-- **Prever e diagnosticar o comportamento do JavaScript**, raciocinando sobre tipos, coerção, escopo, closures, referências e execução assíncrona.
-- **Implementar e organizar soluções** com funções, objetos, coleções, módulos e tratamento de erros.
-- **Construir e depurar fluxos síncronos e assíncronos**, distinguindo corretamente linguagem, runtime e APIs do ambiente.
+- [Currículo de estudos](./curriculum/curriculum.md)
+- [Módulos e exercícios integradores](./modules/)
+- [Vitrine de exercícios — GitHub Pages](https://juniohgd.github.io/javascript--foundations-lab/javascript-lab/)
 
 ## Percurso
 
-| ID | Bloco |
-|:---:|---|
-| `JS-01` | [Valores, Tipos e Avaliação de Expressões](./practice/js-01-valores-tipos-e-avaliacao-de-expressoes/) |
-| `JS-02` | [Bindings, Declarações e Escopo Léxico](./practice/js-02-bindings-declaracoes-e-escopo-lexico/) |
-| `JS-03` | [Funções e Closures](./practice/js-03-funcoes-e-closures/) |
-| `JS-04` | [Objetos: Propriedades, Referências e Mutabilidade](./practice/js-04-objetos-propriedades-referencias-e-mutabilidade/) |
-| `JS-05` | [Protótipos, Herança e Classes](./practice/js-05-prototipos-heranca-e-classes/) |
-| `JS-06` | [Métodos e `this`](./practice/js-06-metodos-e-this/) |
-| `JS-07` | [Coleções e Iteração (Arrays e Iteráveis)](./practice/js-07-colecoes-e-iteracao-arrays-e-iteraveis/) |
-| `JS-08` | [Recursos Modernos da Linguagem](./practice/js-08-recursos-modernos-da-linguagem/) |
-| `JS-09` | [Módulos ECMAScript](./practice/js-09-modulos-ecmascript/) |
-| `JS-10` | [Erros e Exceções](./practice/js-10-erros-e-excecoes/) |
-| `JS-11` | [Assíncronismo e Promises](./practice/js-11-assincronismo-e-promises/) |
-| `JS-12` | [Async/Await e Event Loop](./practice/js-12-async-await-e-event-loop/) |
+| Módulo | Conteúdo |
+| --- | --- |
+| [JS-01](./modules/js-01-valores-operadores-e-controle-de-fluxo/) | Valores, Operadores e Controle de Fluxo |
+| [JS-02](./modules/js-02-funcoes-escopo-e-closures/) | Funções, Escopo e Closures |
+| [JS-03](./modules/js-03-colecoes-e-processamento-de-dados/) | Coleções e Processamento de Dados |
+| [JS-04](./modules/js-04-objetos-metodos-e-classes/) | Objetos, Métodos e Classes |
+| [JS-05](./modules/js-05-sintaxe-pratica-e-modulos/) | Sintaxe Prática e Módulos |
+| [JS-06](./modules/js-06-erros-depuracao-e-testes/) | Erros, Depuração e Testes |
+| [JS-07](./modules/js-07-assincronismo-e-event-loop/) | Assincronismo e Modelo de Execução |
+| [JS-08](./modules/js-08-dom-e-eventos/) | DOM e Eventos |
+| [JS-09](./modules/js-09-http-json-e-integracao-web/) | HTTP, JSON e Integração Web |
 
-> Consulte o [currículo completo](./curriculum/curriculum.md).
+Cada módulo reúne tópicos conectados, competências e **um exercício integrador**. Pequenas práticas isoladas são opcionais quando ajudam a compreender um conceito.
 
-### Navegação
-
-Para seguir o percurso desde o início, comece pelo primeiro bloco:
-
-[JS-01 — Valores, Tipos e Avaliação de Expressões →](./practice/js-01-valores-tipos-e-avaliacao-de-expressoes/)
-
-## Estrutura do repositório
-
-Organização de `javascript--foundations-lab/`:
+## Organização
 
 | Diretório | Finalidade |
 | --- | --- |
-| [`curriculum/`](./curriculum/) | Mapa e currículo canônico do Lab. |
-| [`javascript-lab/`](./javascript-lab/) | Página do diretório visual de exercícios. |
-| [`practice/`](./practice/) | Blocos, unidades, exercícios e checkpoints. |
-| [`projects/`](./projects/) | Projetos de integração de maior escopo. |
+| [`curriculum/`](./curriculum/) | Grade de estudos e material de consulta. |
+| [`modules/`](./modules/) | Módulos e exercícios integradores. |
+| [`javascript-lab/`](./javascript-lab/) | Vitrine de exercícios. |
+
+## Próxima etapa
+
+Os conhecimentos de funções, objetos, módulos, erros, assincronismo, HTTP e JSON servirão de base para estudar **Node.js, APIs, bancos de dados e testes backend** em projetos próprios.
+
+[Ver currículo](./curriculum/curriculum.md) · [Abrir vitrine](https://juniohgd.github.io/javascript--foundations-lab/javascript-lab/)
